@@ -21,7 +21,7 @@ Introduction to Machine Learning final project, in which, by using ML surpevised
 - Applying models
 - Enhancing the Models
 
-
+![alt text](https://github.com/Francis1408/MusicGenreClassificator/blob/main/img/Screenshot%20from%202024-07-08%2015-35-35.png)
 
 ## 3. Project Information:
    - **Models used**:
